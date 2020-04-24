@@ -19,7 +19,7 @@ public class MongoFactory {
 	// Returns a mongo instance.
 	public static Mongo getMongo() {
 		int port_no = 27017;
-		String hostname = "23.100.126.95";		
+		String hostname = "172.17.0.2";		
 		if (mongo == null) {
 			try {
 				mongo = new Mongo(hostname, port_no);																		

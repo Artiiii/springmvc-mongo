@@ -1,0 +1,4 @@
+com/springmvc/mongo/mongo/factory/MongoFactory.class
+com/springmvc/mongo/UserService.class
+com/springmvc/mongo/User.class
+com/springmvc/mongo/controller/UserController.class

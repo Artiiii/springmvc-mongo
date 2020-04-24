@@ -1,4 +1,4 @@
-C:\Users\Arti Pal\eclipse-workspace\springmvc-mongo\src\main\java\com\springmvc\mongo\UserService.java
-C:\Users\Arti Pal\eclipse-workspace\springmvc-mongo\src\main\java\com\springmvc\mongo\controller\UserController.java
-C:\Users\Arti Pal\eclipse-workspace\springmvc-mongo\src\main\java\com\springmvc\mongo\mongo\factory\MongoFactory.java
-C:\Users\Arti Pal\eclipse-workspace\springmvc-mongo\src\main\java\com\springmvc\mongo\User.java
+/home/ubuntu/springmvc-mongo/src/main/java/com/springmvc/mongo/controller/UserController.java
+/home/ubuntu/springmvc-mongo/src/main/java/com/springmvc/mongo/mongo/factory/MongoFactory.java
+/home/ubuntu/springmvc-mongo/src/main/java/com/springmvc/mongo/UserService.java
+/home/ubuntu/springmvc-mongo/src/main/java/com/springmvc/mongo/User.java
